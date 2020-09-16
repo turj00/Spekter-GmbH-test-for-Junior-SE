@@ -9,7 +9,7 @@ This is a React Js web-app project and in this project, user can locate his/her 
 <b> <h1> Installation and Setup Instructions: </h1> </b>
 Clone down this repository. You will need node and npm installed globally on your machine, also you need to create react app to run this on local host.
 
-<b> Installation </b> npm install
+<b> Installation: </b> npm install
 
 
 <b> To Start Server: </b> npm start
